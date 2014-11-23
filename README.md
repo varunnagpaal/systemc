@@ -15,6 +15,7 @@ Following are the projects to be added as work progresses
 5. I2C IP
 6. SPI IP
 7. 16450 UART
-8. Micro DMA IP
-9. Coherent cache controller for Multicore NUMA CPU or GPU
-10. ARM Processor Model (cortex M0)
+8. SERDES
+9. Micro DMA IP
+10. Coherent cache controller for Multicore NUMA CPU or GPU
+11. ARM Processor Model (cortex M0)
