@@ -3,9 +3,11 @@ SystemC
 Idea of this repo is to build SystemC projects at RTL,TLM abd Behavioral/Algorithmic abstraction levels.
 
 Following are list of RTL sub-projects added so far
+
 1. Generic Register
 
-Followingare the projects to be added as work progresses
+Following are the projects to be added as work progresses
+
 1. Generic Shift-Register
 2. IEEE Pipelined Floating Point Fused Multiplier Accumulator Unit (32-bit and 64-bit)
 3. Generic Biquad IIR Filter IP
