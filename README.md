@@ -19,3 +19,4 @@ Following are the projects to be added as work progresses
 9. Micro DMA IP
 10. Coherent cache controller for Multicore NUMA CPU or GPU
 11. ARM Processor Model (cortex M0)
+12. FFT
